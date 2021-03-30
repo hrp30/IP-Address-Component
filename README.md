@@ -1,4 +1,4 @@
-# ipc_comp
+# IP Address Component
 
 ## Project setup
 ```
